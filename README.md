@@ -1,2 +1,3 @@
 # open_source
-This is first Project
+This is first Open source Software Development.
+Author: Mashoodji
